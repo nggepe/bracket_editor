@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nggepe/bracket_editor/main/docs/logo.png" height="100" alt="Bracket Editor" />
+  <img src="https://raw.githubusercontent.com/nggepe/bracket_editor/main/docs/logo.png" height="200" alt="Bracket Editor" />
 </p>
 # (in dev)
 
