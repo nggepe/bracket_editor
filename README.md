@@ -1,1 +1,1 @@
-# bracket_editor
+Rich text editor with bracket.
